@@ -6,7 +6,7 @@ Thank you for visiting this site. It's new and in the making, but we'll make sur
 
 ## Mission Statement 
 
-Fostering the growth, development and friendship of young mumenaat in Toronto. :) 
+Fostering the **growth, development** and **friendship** of young mumenaat in Toronto. :) 
 
 ```markdown
 
@@ -21,11 +21,7 @@ Coming soon! Stay tuned!
 
 ### Support or Contact
 
-Have Questions or Comments? Email us at: talebaat.toronto@gmail.com 
-Saifuddin Moula TUS ni umr shareef ne ta roze qayamat daraz karjo. Ameen! 
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+Have Questions or Comments? Email us at: **talebaat.toronto@gmail.com**  
 
 
 ## Header 2
@@ -114,5 +110,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ```
-The final element.
+_Saifuddin Moula TUS ni umr shareef ne ta roze qayamat daraz karjo. Ameen!_
 ```
