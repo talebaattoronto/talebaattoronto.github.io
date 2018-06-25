@@ -1,37 +1,25 @@
 ## Welcome to Talebaat Toronto! 
 
-You can use the [editor on GitHub](https://github.com/talebaattoronto/talebaattoronto.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thank you for visiting this site. It's new, but we'll make sure to frequently update it as we get things planned out for you! :) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Mission Statement 
+
+Fostering the growth, development and friendship on young mumenaat in Toronto. :) 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Moula TUS ni kushi haasil karvu. 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The website is under construction. We thank you for your patience as we integrate more content on this page. 
 
-### Jekyll Themes
+### Activities and Upcoming Events
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/talebaattoronto/talebaattoronto.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Coming soon! Stay tuned! 
 
 ### Support or Contact
 
 Have Questions or Comments? Email us at: talebaat.toronto@gmail.com 
+Saifuddin Moula TUS ni umr shareef ne ta roze qayamat daraz karjo. Ameen! 
