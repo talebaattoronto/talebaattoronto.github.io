@@ -1,16 +1,26 @@
 # Welcome to Talebaat-ul-Kulliyatul Mumenaat Toronto! 
 
-Thank you for visiting this site. It's new and in the making, but we'll make sure to frequently update it as we get things planned out for you! :) 
+Thank you for visiting, the site is new and in the making, but we'll make sure to frequently update it as we get things planned out for you! :) 
+
+* * *
+
+
+## _Who Are We?_  
+
+Talebaat ul Kuliyatul Mumenaat is a committee/sanstha to empower the young women of the Dawoodi Bohra community.  As young mumenaat we have experiences that are exclusive to our community. We would like to create a community of women who balance both deen and duniya and foster a sense of togetherness.
 
 * * *
 
 
 ## Mission Statement 
 
-Fostering the **growth, development** and **friendship** of young mumenaat in Toronto. :) 
+> Fostering the **growth, development** and **friendship** of young mumenaat in Toronto. :) 
 
-> _Moula TUS ni kushi haasil karvu._ 
- 
+#### _Our goals_
+
+1.  Providing young muminaat women a community to rely on for social, personal, and academic needs and help each other out in every aspect of life.
+2.  Providing opportunities and events where girls can share similar experiences and grow not just a deeni aspect, but in the real world sense as well.
+3.  Bringing all of these personalities together and to put our resources in one place to make sure that no one is alone, and together achieving the khushi of Aqa Moula TUS. 
 
 * * *
 
@@ -21,14 +31,6 @@ Fostering the **growth, development** and **friendship** of young mumenaat in To
 
 * * *
 
-
-#### _Our goals_
-
-1.  Providing young muminaat women a community to rely on for social, personal, and academic needs.
-2.  Providing opportunities and events where muminaat can foster friendships and their development
-3.  Bring us together in achieving the kushi of Aqa Moula TUS. 
-
-* * *
 
 
 ### About Us
