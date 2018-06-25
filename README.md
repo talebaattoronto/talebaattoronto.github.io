@@ -2,113 +2,75 @@
 
 Thank you for visiting this site. It's new and in the making, but we'll make sure to frequently update it as we get things planned out for you! :) 
 
+* * *
 
 
 ## Mission Statement 
 
 Fostering the **growth, development** and **friendship** of young mumenaat in Toronto. :) 
 
-```markdown
+> _Moula TUS ni kushi haasil karvu._ 
+ 
 
-Moula TUS ni kushi haasil karvu. 
-```
+* * *
 
-The website is under construction. We thank you for your patience as we integrate more content on this page. 
 
 ### Activities and Upcoming Events
 
-Coming soon! Stay tuned! 
+*   Coming soon! Stay tuned! 
+
+* * *
+
 
 ### Support or Contact
 
 Have Questions or Comments? Email us at: **talebaat.toronto@gmail.com**  
 
+* * *
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+##### _Our goals_
 
-### Header 3
-
-```
-this is markdown
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+1.  Providing young muminaat women a community to rely on for social, personal, and academic needs.
+2.  Providing opportunities and events where muminaat can foster friendships and their development
+3.  Bring us together in achieving the kushi of Aqa Moula TUS. 
 
 * * *
 
-### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+###### Resources and Helpful Links 
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+|              Source               |              Link              |
+|:----------------------------------|:-------------------------------|
+| Daeratut Talebaatil Mumenaat H.Q. | www.busaheba.org               | 
+| Anjuman-E-Burhani Toronto         | https://www.torontojamat.com   |
+| Dawoodi Bohras worldwide          | http://www.mumineen.org        |
+| Talabulilm                        | http://www.talabulilm.com      | 
 
 
-### Definition lists can be used with HTML syntax.
+* * *
+
+
+##### About Us
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Organization</dt>
+<dd>Daeratut Talebaatil Mumenaat Toronto</dd>
+<dt>Branch</dt>
+<dd>Richmond Hill and Toronto, Canada</dd>
+<dt>Contact Email</dt>
+<dd>talebaat.toronto@gmail.com</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+* * *
 
 ```
-_Saifuddin Moula TUS ni umr shareef ne ta roze qayamat daraz karjo. Ameen!_
+The website is under construction. We thank you for your patience as we integrate more content on this page.
 ```
+
+* * *
+
+
+_Saifuddin Moula TUS ni umr shareef ne ta roze qayamat daraz karjo. Ameen!_
+
+* * *
