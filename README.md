@@ -1,4 +1,4 @@
-## Welcome to Talebaat Toronto! 
+## Welcome to Talebaat-ul-Kulliyatul Mumenaat Toronto! 
 
 Thank you for visiting this site. It's new, but we'll make sure to frequently update it as we get things planned out for you! :) 
 
@@ -6,7 +6,7 @@ Thank you for visiting this site. It's new, but we'll make sure to frequently up
 
 ### Mission Statement 
 
-Fostering the growth, development and friendship on young mumenaat in Toronto. :) 
+Fostering the growth, development and friendship of young mumenaat in Toronto. :) 
 
 ```markdown
 
