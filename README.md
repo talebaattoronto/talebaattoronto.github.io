@@ -22,14 +22,7 @@ Fostering the **growth, development** and **friendship** of young mumenaat in To
 * * *
 
 
-### Support or Contact
-
-Have Questions or Comments? Email us at: **talebaat.toronto@gmail.com**  
-
-* * *
-
-
-##### _Our goals_
+#### _Our goals_
 
 1.  Providing young muminaat women a community to rely on for social, personal, and academic needs.
 2.  Providing opportunities and events where muminaat can foster friendships and their development
@@ -38,7 +31,21 @@ Have Questions or Comments? Email us at: **talebaat.toronto@gmail.com**
 * * *
 
 
-###### Resources and Helpful Links 
+### About Us
+
+<dl>
+<dt>Organization</dt>
+<dd>Daeratut Talebaatil Mumenaat Toronto</dd>
+<dt>Branch</dt>
+<dd>Richmond Hill and Toronto, Canada</dd>
+<dt>Contact Email</dt>
+<dd>talebaat.toronto@gmail.com</dd>
+</dl>
+
+* * *
+
+
+#### Resources and Helpful Links 
 
 |              Source               |              Link              |
 |:----------------------------------|:-------------------------------|
@@ -51,18 +58,12 @@ Have Questions or Comments? Email us at: **talebaat.toronto@gmail.com**
 * * *
 
 
-##### About Us
+### Support or Contact
 
-<dl>
-<dt>Organization</dt>
-<dd>Daeratut Talebaatil Mumenaat Toronto</dd>
-<dt>Branch</dt>
-<dd>Richmond Hill and Toronto, Canada</dd>
-<dt>Contact Email</dt>
-<dd>talebaat.toronto@gmail.com</dd>
-</dl>
+Have Questions or Comments? Email us at: **talebaat.toronto@gmail.com**  
 
 * * *
+
 
 ```
 The website is under construction. We thank you for your patience as we integrate more content on this page.
