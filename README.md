@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Welcome to Talebaat-ul-Kulliyatul Mumenaat Toronto! 
 
 Thank you for visiting this site. It's new and in the making, but we'll make sure to frequently update it as we get things planned out for you! :) 
@@ -40,19 +36,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
 ```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+this is markdown
 ```
 
 #### Header 4
@@ -109,14 +94,6 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
