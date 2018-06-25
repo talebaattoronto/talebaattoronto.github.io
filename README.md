@@ -44,7 +44,7 @@ Have Questions or Comments? Email us at: **talebaat.toronto@gmail.com**
 |:----------------------------------|:-------------------------------|
 | Daeratut Talebaatil Mumenaat H.Q. | www.busaheba.org               | 
 | Anjuman-E-Burhani Toronto         | https://www.torontojamat.com   |
-| Dawoodi Bohras worldwide          | http://www.mumineen.org        |
+| Dawoodi Bohras Worldwide          | http://www.mumineen.org        |
 | Talabulilm                        | http://www.talabulilm.com      | 
 
 
@@ -71,6 +71,5 @@ The website is under construction. We thank you for your patience as we integrat
 * * *
 
 
-_Saifuddin Moula TUS ni umr shareef ne ta roze qayamat daraz karjo. Ameen!_
+_Khuda Ta'ala Saifuddin Moula TUS ni umr shareef ne ta roze qayamat daraz ane daraz karjo. Ameen!_
 
-* * *
