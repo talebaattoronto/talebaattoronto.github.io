@@ -43,16 +43,14 @@ Fostering the **growth, development** and **friendship** of young mumenaat in To
 </dl>
 
 * * *
+ 
 
-
-#### Resources and Helpful Links 
-
-|              Source               |              Link              |
-|:----------------------------------|:-------------------------------|
-| Daeratut Talebaatil Mumenaat H.Q. | www.busaheba.org               | 
-| Anjuman-E-Burhani Toronto         | https://www.torontojamat.com   |
-| Dawoodi Bohras Worldwide          | http://www.mumineen.org        |
-| Talabulilm                        | http://www.talabulilm.com      | 
+|               Resources and Helpful Links                            |
+|:---------------------------------------------------------------------|
+| <a href="www.busaheba.org">Daeratut Talebaatil Mumenaat H.Q.</a>     | 
+| <a href="https://www.torontojamat.com">Anjuman-E-Burhani Toronto</a> |
+| <a href="http://www.mumineen.org">Dawoodi Bohras Worldwide</a>       | 
+| <a href="http://www.talabulilm.com">Talabulilm</a>                   |
 
 
 * * *
@@ -60,7 +58,7 @@ Fostering the **growth, development** and **friendship** of young mumenaat in To
 
 ### Support or Contact
 
-Have Questions or Comments? Email us at: **talebaat.toronto@gmail.com**  
+Have Questions or Comments? Email us at: <a href="talebaat.toronto@gmail.com">talebaat.toronto@gmail.com</a> 
 
 * * *
 
