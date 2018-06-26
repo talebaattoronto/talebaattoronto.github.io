@@ -63,9 +63,9 @@ Talebaat ul Kuliyatul Mumenaat is a committee/sanstha to empower the young women
 Have Questions or Comments? Email us at: <a href="http://talebaat.toronto@gmail.com">talebaat.toronto@gmail.com</a> 
 
 * * *
-```
+
 ![alt text](https://raw.githubusercontent.com/talebaattoronto/talebaattoronto.github.io/master/activities_culture.png)
-```
+
 * * *
 
 ```
