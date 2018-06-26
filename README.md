@@ -65,6 +65,8 @@ Have Questions or Comments? Email us at: <a href="http://talebaat.toronto@gmail.
 * * *
 
 
+![alt text](https://raw.githubusercontent.com/talebaattoronto/talebaattoronto.github.io/master/activities_culture.png)
+
 ```
 The website is under construction. We thank you for your patience as we integrate more content on this page.
 ```
