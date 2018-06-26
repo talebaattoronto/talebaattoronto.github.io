@@ -1,6 +1,8 @@
 # Welcome to Talebaat-ul-Kulliyatul Mumenaat Toronto! 
 
-Thank you for visiting, the site is new and in the making, but we'll make sure to frequently update it as we get things planned out for you! :) 
+Thank you for visiting, the site is new and in the making, but we'll make sure to frequently update it as we get things planned out for you! :) In the mean time please fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLScPm7-Wl1pFJNAHuVkmqWu45tZK1kGvBGPGvBR0rJDJgnmfLg/viewform?usp=sf_link">Member information Survey</a> ! Thank you very much. 
+
+
 
 * * *
 
@@ -64,7 +66,10 @@ Have Questions or Comments? Email us at: <a href="http://talebaat.toronto@gmail.
 
 * * *
 
-![alt text](https://raw.githubusercontent.com/talebaattoronto/talebaattoronto.github.io/master/activities_culture.png)
+![moula bayan](https://raw.githubusercontent.com/talebaattoronto/talebaattoronto.github.io/master/activities_culture.png)
+![sihoriramadan](https://raw.githubusercontent.com/talebaattoronto/talebaattoronto.github.io/master/sihoriparty.png)
+![sihorione](https://raw.githubusercontent.com/talebaattoronto/talebaattoronto.github.io/master/sihoriparty2.png)
+
 
 * * *
 
