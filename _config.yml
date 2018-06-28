@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 
 title: [Talebaat-ul-Kulliyatul Mumenaat Toronto]
 description: [Main website for the Organization of Talebaat-ul-Kulliyatul Mumenaat Toronto]
+
+future: true
+timezone: TIMEZONE
