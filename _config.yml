@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 title: [Talebaat-ul-Kulliyatul Mumenaat Toronto]
 description: [Main website for the Organization of Talebaat-ul-Kulliyatul Mumenaat Toronto]
 
-show_downloads: true
+show_downloads: false
 google_analytics: [Talebaat Toronto]
 
 future: true
