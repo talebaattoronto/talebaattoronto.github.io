@@ -24,7 +24,7 @@ Talebaat ul Kuliyatul Mumenaat is a committee/sanstha to empower the young women
 2.  Providing opportunities and events where girls can share similar experiences and grow not just a deeni aspect, but in the real world sense as well.
 3.  Bringing all of these personalities together and to put our resources in one place to make sure that no one is alone, and together achieving the khushi of Aqa Moula TUS. 
 
-Kalimaat Nooraaniya from Aqa Moula TUS: 
+**Kalimaat Nooraaniya from Aqa Moula TUS:** 
 
 ![moula bayan](activities_culture.png)
 
@@ -86,5 +86,5 @@ The website is under construction. We thank you for your patience as we integrat
 * * *
 
 
-##### _Khuda Ta'ala Saifuddin Moula TUS ni umr shareef ne ta roze qayamat daraz ane daraz karjo. Ameen!_
+#### _Khuda Ta'ala Saifuddin Moula TUS ni umr shareef ne ta roze qayamat daraz ane daraz karjo. Ameen!_
 
