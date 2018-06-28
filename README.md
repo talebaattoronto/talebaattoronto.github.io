@@ -66,11 +66,11 @@ Have Questions or Comments? Email us at: <a href="http://talebaat.toronto@gmail.
 
 * * *
 
-![moula bayan](https://raw.githubusercontent.com/talebaattoronto/talebaattoronto.github.io/master/activities_culture.png)
+![moula bayan](activities_culture.png)
 
-![sihoriramadan](https://raw.githubusercontent.com/talebaattoronto/talebaattoronto.github.io/master/sihoriparty.png)
+![sihoriramadan](sihoriparty.png)
 
-![sihorione](https://raw.githubusercontent.com/talebaattoronto/talebaattoronto.github.io/master/sihoriparty2.png)
+![sihorione](sihoriparty2.png)
 
 * * *
 
