@@ -1,6 +1,6 @@
 # Welcome to Talebaat-ul-Kulliyatul Mumenaat Toronto! 
 
-Thank you for visiting, the site is new and in the making, but we'll make sure to frequently update it as we get things planned out for you! :) In the mean time please fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLScPm7-Wl1pFJNAHuVkmqWu45tZK1kGvBGPGvBR0rJDJgnmfLg/viewform?usp=sf_link">Member information Survey</a> ! Thank you very much. 
+Thank you for visiting, the site is new and in the making, but we'll make sure to frequently update it as we get things planned out for you! :) In the mean time please fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLScPm7-Wl1pFJNAHuVkmqWu45tZK1kGvBGPGvBR0rJDJgnmfLg/viewform?usp=sf_link">Member information Survey</a>! Thank you very much. 
 
 
 
@@ -65,10 +65,6 @@ Talebaat ul Kuliyatul Mumenaat is a committee/sanstha to empower the young women
 Have Questions or Comments? Email us at: <a href="http://talebaat.toronto@gmail.com">talebaat.toronto@gmail.com</a> 
 
 * * *
-
-![moula bayan](https://raw.githubusercontent.com/talebaattoronto/talebaattoronto.github.io/master/activities_culture.png)
-![sihoriramadan](https://raw.githubusercontent.com/talebaattoronto/talebaattoronto.github.io/master/sihoriparty.png)
-![sihorione](https://raw.githubusercontent.com/talebaattoronto/talebaattoronto.github.io/master/sihoriparty2.png)
 
 
 * * *
