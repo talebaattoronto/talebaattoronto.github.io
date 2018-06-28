@@ -21,5 +21,33 @@ body {
  
 }
 
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #4c0035;
+  }
+
+blockquote {
+    padding: 0 1rem;
+    margin-left: 0;
+    color: #370b51;
+    border-left: 0.3rem solid #34aeb5;
+
+    > :first-child {
+      margin-top: 0;
+    }
+
+    > :last-child {
+      margin-bottom: 0;
+    }
+  }
+
+
 
  
