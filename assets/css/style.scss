@@ -77,5 +77,26 @@ table {
     }
   }
 
+#skip-to-content {
+  height: 1px;
+  width: 1px;
+  position: center;
+  overflow: hidden;
+  top: -15px;
+  
+  &:focus {
+    position: center;
+    top: 15px;
+    left: 15px;
+    height: auto;
+    width: auto;
+    background: invert($body-link-color);
+    outline: thick solid invert($body-link-color);
+  }
+}
+  
+    
+  
+
 
  
