@@ -1,6 +1,8 @@
 ---
 ---
 
+$blockquote-text-color: #370b51;
+
 @import "{{ site.theme }}";
 
 .page-header {
@@ -36,7 +38,7 @@ body {
 blockquote {
     padding: 0 1rem;
     margin-left: 0;
-    color: #370b51;
+    color: $blockquote-text-color;
     border-left: 0.3rem solid #34aeb5;
 
   }
