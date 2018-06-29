@@ -3,6 +3,8 @@
 
 $blockquote-text-color: #370b51;
 
+$section-headings-color: #4c0035;
+
 @import "{{ site.theme }}";
 
 .page-header {
@@ -31,7 +33,7 @@ body {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: #4c0035;
+    color: $section-headings-color; 
     
   }
 
