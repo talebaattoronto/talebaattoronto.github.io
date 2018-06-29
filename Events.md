@@ -1,5 +1,8 @@
 ## Events 
 
-This list will be frequently updated, please check is regularly! :) 
+*   Sunday, July 1st (CANADA DAY) 10:00 AM: **Masjid Safai** (<a href="https://www.torontojamat.com">Toronto Jamaat</a> Event)
 
-*   Sunday, July 1st (CANADA DAY) 10:00 AM: **Masjid Safai** (Toronto Jamaat Event)
+
+* * *
+
+This list will be frequently updated, please check it regularly! :) 
