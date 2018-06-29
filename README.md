@@ -37,7 +37,7 @@ Interested in becoming a part of Talebaat? Join <a href="https://docs.google.com
 
 ### Activities and Upcoming Events
 
-*   Sunday, July 1st (CANADA DAY) 10:00 AM: **Masjid Safai** (<a href="https://www.torontojamat.com">Toronto Jamaat</a> Event)
+*   Saturday, June 30th 10:00 AM: **Masjid Safai** (<a href="https://www.torontojamat.com">Toronto Jamaat</a> Event)
 
 * * *
 
