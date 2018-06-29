@@ -10,7 +10,7 @@ Thank you for visiting, the site is new and in the making, but we'll make sure t
 
 ## _Who Are We?_  
 
-> Talebaat ul Kuliyatul Mumenaat is a committee/sanstha to empower the young women of the Dawoodi Bohra community.  As young mumenaat we have experiences that are exclusive to our community. We would like to create a community of women who balance both deen and duniya and foster a sense of togetherness.
+> Talebaat ul Kuliyatul Mumenaat is a committee/sanstha to **empower** the young women of the _Dawoodi Bohra community_.  As young mumenaat we have experiences that are **exclusive to our community**. We would like to create a community of women who balance _both deen and duniya_ and foster a sense of **togetherness**.
 
 Interested in becoming a part of Talebaat? Join <a href="https://docs.google.com/forms/d/e/1FAIpQLScPm7-Wl1pFJNAHuVkmqWu45tZK1kGvBGPGvBR0rJDJgnmfLg/viewform?usp=sf_link">here</a>. :) 
 
@@ -37,7 +37,7 @@ Interested in becoming a part of Talebaat? Join <a href="https://docs.google.com
 
 ### Activities and Upcoming Events
 
-*   Coming soon! Stay tuned! 
+*   Sunday, July 1st (CANADA DAY) 10:00 AM: **Masjid Safai** (Toronto Jamaat Event)
 
 * * *
 
