@@ -3,7 +3,9 @@
 
 $blockquote-text-color: #370b51;
 
-$section-headings-color: #4c0035;
+$border-color: #34aeb5;
+
+$section-headings-color: #8c00a8;
 
 @import "{{ site.theme }}";
 
@@ -41,7 +43,7 @@ blockquote {
     padding: 0 1rem;
     margin-left: 0;
     color: $blockquote-text-color;
-    border-left: 0.3rem solid #34aeb5;
+    border-left: 0.3rem solid $border-color; 
 
   }
 
