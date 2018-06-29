@@ -80,9 +80,9 @@ table {
 #content {
   height: 1px;
   width: 1px;
-  position: center;
+  position: absolute;
   overflow: hidden;
-  top: -15px;
+  top: -10px;
   
   &:focus {
     position: fixed;
