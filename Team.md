@@ -4,26 +4,28 @@
 Meet the people behind the scenes of making Toronto Talebaat great!!
 
 <p>
-**Secretary**<br />
+Secretary<br />
 Amatullah Fatehi<br />
 Contact: (647) 609-5353<br />
 </p>
 
+<p>
+Treasurer<br />
+Rabab Kapasi<br />
+Contact: (647) 786-5652<br />
+</p>
 
-**Treasurer**
-Rabab Kapasi 
-Contact: (647) 786-5652
+<p>
+Batul Baghdadwala<br />
+Contact: (647) 633-4458<br />
+</p>
 
-Batul Baghdadwala
-Contact: (647) 633-4458
+<p>
+Fatema Nalwala<br />
+Contact: (647) 527-0580<br />
+</p>
 
-Fatema Nalwala 
-Contact: (647) 527-0580
-
-Sakina Kapasi
-Contact:  
-
-
-Website
-Amatulla Lokhandwala 
-Contact: (647) 989-5251
+<p>
+Sakina Kapasi<br />
+Contact: (647) 620-7786 <br />
+</p>
