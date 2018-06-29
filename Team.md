@@ -3,9 +3,12 @@
 
 Meet the people behind the scenes of making Toronto Talebaat great!!
 
-**Secretary**
-Amatullah Fatehi 
-Contact: (647) 609-5353
+<p>
+**Secretary**<br />
+Amatullah Fatehi<br />
+Contact: (647) 609-5353<br />
+</p>
+
 
 **Treasurer**
 Rabab Kapasi 
