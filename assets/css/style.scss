@@ -85,9 +85,9 @@ table {
   top: -15px;
   
   &:focus {
-    position: center;
-    top: 15px;
-    left: 15px;
+    position: fixed;
+    top: 10px;
+    left: 10px;
     height: auto;
     width: auto;
     background: invert($body-link-color);
