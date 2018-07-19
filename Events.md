@@ -8,6 +8,8 @@ This list will be frequently updated, please check it regularly! :)
 
 *   Monday 7pm, July 23rd: *SAVE THE DATE* EVENT @ Masjid. Join us for a fun **interactive night** for **girls ages 13 to 35**. There will be *skits and activities* which relay the importance of our *culture* and *hijri calender*. *Kasreali bhensaabs who have come for Ashara Ohbat will also be there to bless the event and give us all barakat.* 
 
+![evite1](evite1.jpeg)
+
 
 * * *
 
