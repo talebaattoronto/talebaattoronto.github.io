@@ -2,7 +2,7 @@
 
 This list will be frequently updated, please check it regularly! :) 
 
-*   Monday 6:30pm, July 23rd: ***SAVE THE DATE*** **EVENT** @ **34 ALEXANDRA WOOD, RICHMOND HILL**. Join ***Toronto and Mississauga Tauloba*** for a fun **interactive night** for **girls ages 13 to 35**. There will be *skits and activities* which relay the importance of our *culture* and *hijri calender*. *Kasreali bhensaabs who have come for Ashara Ohbat will also be there to bless the event and give us all barakat.* They would also happily answer any questions you have or anything you'd like to discuss.
+*   Monday 6:30pm, July 23rd: ***SAVE THE DATE*** **EVENT** @ **34 ALEXANDRA WOOD, RICHMOND HILL**. Join ***Toronto and Mississauga Tauloba*** for a fun **interactive night** for **girls ages 15 to 35**. There will be *skits and activities* which relay the importance of our *culture* and *hijri calender*. *Kasreali bhensaabs who have come for Ashara Ohbat will also be there to bless the event and give us all barakat.* They would also happily answer any questions you have or anything you'd like to discuss.
 
 ![evite3](evite3.jpeg)
 
