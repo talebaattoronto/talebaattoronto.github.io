@@ -2,15 +2,17 @@
 
 This list will be frequently updated, please check it regularly! :) 
 
-*   Monday 6:30-7:30pm, July 23rd: ***SAVE THE DATE*** **EVENT** @ **34 ALEXANDRA WOOD, RICHMOND HILL**. Join ***Toronto and Mississauga Tauloba*** for a fun **interactive night** for **girls ages 15 to 35**. There will be *skits and activities* which relay the importance of our *culture* and *hijri calender*. *Kasreali bhensaabs who have come for Ashara Ohbat will also be there to bless the event and give us all barakat.* They would also happily answer any questions you have or anything you'd like to discuss.
-
-![evite3](evite3.jpeg)
 
 
 * * *
 
 
 ## Past Events 
+
+*   Monday 6:30-7:30pm, July 23rd: ***SAVE THE DATE*** **EVENT** @ **34 ALEXANDRA WOOD, RICHMOND HILL**. ***Toronto and Mississauga Tauloba*** hosted a fun **interactive night** for **girls ages 15 to 35**. There were *skits and activities* which relayed the importance of our *culture* and *hijri calender*. *Kasreali bhensaabs came to bless the event and gave us all barakat.* Stayed tuned for pics from the event! 
+
+![evite3](evite3.jpeg)
+
 
 *   Thursday 7pm, July 19th/ 7th Zilqad: Moulatona Fatema-tus-Zahra **MITHI SHITABI** *Ashara Ohbat Majlis* (On behalf of *Burhani Women's Association* (**BWA**)). Registration has ended. Thank you to all those who came out and made the event a success! :)
 
