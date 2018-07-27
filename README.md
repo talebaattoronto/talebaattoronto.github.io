@@ -18,7 +18,7 @@ Interested in becoming a part of Talebaat? Join <a href="https://docs.google.com
 
 ### Activities and Upcoming Events
 
-Stay tuned for upcoming events we are planning for you! 
+Stay tuned for upcoming events we are planning for you! :)
 
 Click <a href="https://talebaattoronto.github.io/Events">here</a> for more information on Events. 
 
