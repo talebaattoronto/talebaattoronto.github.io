@@ -37,7 +37,7 @@ This list will be frequently updated, please check it regularly! :)
 <img src="jul23-9.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
 <img src="jul23-10.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
 <img src="jul23-11.jpeg" alt="evite3" style="width:450px;height:450px;border:0;">
-<img src="jul23-12.jpeg" alt="evite3" style="width:300px;height:450px;border:0;">
+<img src="jul23-12.jpeg" alt="evite3" style="width:310px;height:450px;border:0;">
 
 Sihori gathering during Ramadan :) 
 
