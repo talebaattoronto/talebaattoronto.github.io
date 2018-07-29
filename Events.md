@@ -28,8 +28,8 @@ This list will be frequently updated, please check it regularly! :)
 
 <img src="jul23-1.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
 <img src="jul23-2.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="jul23-3.jpeg" alt="evite3" style="width:380px;height:500px;border:0;">
-<img src="jul23-4.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
+<img src="jul23-3.jpeg" alt="evite3" style="width:310px;height:450px;border:0;">
+<img src="jul23-4.jpeg" alt="evite3" style="width:450px;height:450px;border:0;">
 <img src="jul23-5.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
 <img src="jul23-6.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
 <img src="jul23-7.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
