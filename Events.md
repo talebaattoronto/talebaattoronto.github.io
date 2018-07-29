@@ -28,7 +28,7 @@ This list will be frequently updated, please check it regularly! :)
 
 <img src="jul23-1.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
 <img src="jul23-2.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="jul23-3.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
+<img src="jul23-3.jpeg" alt="evite3" style="width:380px;height:760px;border:0;">
 <img src="jul23-4.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
 <img src="jul23-5.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
 <img src="jul23-6.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
@@ -37,7 +37,7 @@ This list will be frequently updated, please check it regularly! :)
 <img src="jul23-9.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
 <img src="jul23-10.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
 <img src="jul23-11.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="jul23-12.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
+<img src="jul23-12.jpeg" alt="evite3" style="width:380px;height:600px;border:0;">
 
 Sihori gathering during Ramadan :) 
 
