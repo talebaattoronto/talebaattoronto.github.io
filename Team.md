@@ -10,14 +10,15 @@ Contact: (647) 609-5353<br />
 </p>
 
 <p>
-Treasurer<br />
-Rabab Kapasi<br />
-Contact: (647) 786-5652<br />
+Joint Secretary<br />
+Batul Baghdadwala<br />
+Contact: (647) 633-4458<br />
 </p>
 
 <p>
-Batul Baghdadwala<br />
-Contact: (647) 633-4458<br />
+Treasurer<br />
+Rabab Kapasi<br />
+Contact: (647) 786-5652<br />
 </p>
 
 <p>
