@@ -1,7 +1,7 @@
 # Meet the Team 
 * * *
 
-Meet the people behind the scenes of making Toronto Talebaat great!!
+Meet the **Executive Team** behind the scenes of making *Toronto Talebaat* **great!!**
 
 <p>
 Secretary<br />
@@ -22,11 +22,13 @@ Contact: (647) 786-5652<br />
 </p>
 
 <p>
+Committee Member<br />
 Fatema Nalwala<br />
 Contact: (647) 527-0580<br />
 </p>
 
 <p>
+Former Committee Member<br />
 Sakina Kapasi<br />
 Contact: (647) 620-7786 <br />
 </p>
