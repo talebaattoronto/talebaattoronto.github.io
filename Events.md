@@ -1,6 +1,6 @@
 # Events 
 
-This list will be frequently updated, please check it regularly! :) 
+We are currently planning an exciting event within the next few weeks, details will be displayed soon! Please check here regularly! :) 
 
 
 
