@@ -24,10 +24,11 @@
 </head>
 <body>
 
-<h2></h2>
+<h1>Meet the Team</h1>
 
-# Meet the Team 
 * * *
+
+<p>Meet the <b>Executive Team</b> behind the scenes of making <i>Toronto Talebaat</i> <b>great!!</b></p>
 
 <div class="row">
   <div class="column" style="background-color:#F4A18F;">
