@@ -7,10 +7,12 @@
 }
 
 /* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
+@media screen and (min-width: 475px) {
+    .column {
+    	float: left;
+  	width: 50%;
+  	padding: 10px;
+    }
 }
 
 /* Clear floats after the columns */
