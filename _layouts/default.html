@@ -10,11 +10,19 @@
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: flex; /* original: inline-block */
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
     justify-content: center;
+    border-radius: 4px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+  }
+    
+  .button:hover {
+    background-color: #FF1C91; /* Pink */
+    color: white;
   }
   </style>
 
