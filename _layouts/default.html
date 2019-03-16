@@ -2,6 +2,20 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
+  <style>
+  .button {
+    background-color: #FF1C91;
+    border: solid;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  </style>
 
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,6 +24,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+    <a href="https://talebaattoronto.github.io" class="button">Home</a>
     <a id="Home" href="https://talebaattoronto.github.io">Home</a>
     <a id="Who We Are" href="https://talebaattoronto.github.io/Who We Are">|Who We Are</a>
     <a id="Team" href="https://talebaattoronto.github.io/Team">|Team</a>
