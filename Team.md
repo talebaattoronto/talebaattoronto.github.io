@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+/*<!DOCTYPE html>*/
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +26,7 @@
 
 <h1>Meet the Team</h1>
 
-* * *
+<hr>
 
 <p>Meet the <b>Executive Team</b> behind the scenes of making <i>Toronto Talebaat</i> <b>great!!</b></p>
 
