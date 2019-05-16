@@ -1,7 +1,8 @@
 # Events 
 
-We are currently planning an exciting event within the next few weeks, details will be displayed soon! Please check here regularly! :) 
+*   Friday 11:00pm, May 17: ***Sihori Meet & Greet***. Inviting misaq girls ages 14-30. Registration is now closed. 
 
+We are also planning an exciting post-Ramadan event for mid-Summer, details will be displayed soon! Please check here regularly! :) 
 
 
 * * *
