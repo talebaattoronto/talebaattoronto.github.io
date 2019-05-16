@@ -57,11 +57,6 @@
 	Contact: (647) 527-0580<br />
 	</p>
 
-	<p>
-	Former Committee Member<br />
-	Sakina Kapasi<br />
-	Contact: (647) 620-7786 <br />
-	</p>
   </div>
   <div class="column" style="background-color:#E1CAC5;">
     <h2>Subcommittee Members</h2>
