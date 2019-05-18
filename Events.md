@@ -1,14 +1,16 @@
 # Events 
 
-*   Friday 11:00pm, May 17: ***Sihori Meet & Greet***. Inviting misaq girls ages 14-30. Registration is now closed. 
-
-We are also planning an exciting post-Ramadan event for mid-Summer, details will be displayed soon! Please check here regularly! :) 
+We are planning an exciting post-Ramadan event for mid-Summer, details will be displayed soon! Please check here regularly! :) 
 
 
 * * *
 
 
 ## Past Events 
+
+*   Friday 11:00pm, May 17: ***Sihori Meet & Greet*** @ the Masjid Basement. With the Raza of Janab Aamil Saheb - Al Talebaat ul Muminaat Toronto organization held a sehori gathering for all Misaqi girls and ladies between ages 14-30. There were games and prizes followed by behori namaz and a scrumptious sehori. Registration Link: https://forms.gle/LwB8X867m9TNJ1Sa6. Everyone had an amazing time. Look below for pictures to be uploaded soon.  
+
+
 
 *   Monday 6:30-7:30pm, July 23rd: ***SAVE THE DATE*** **EVENT** @ **34 ALEXANDRA WOOD, RICHMOND HILL**. ***Toronto and Mississauga Tauloba*** hosted a fun **interactive night** for **girls ages 15 to 35**. There were *skits and activities* which relayed the importance of our *culture* and *hijri calender*. *Kasreali bhensaabs came to bless the event and gave us all barakat.* See below for pics from the event! 
 
