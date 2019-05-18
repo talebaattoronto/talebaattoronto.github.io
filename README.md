@@ -18,9 +18,9 @@ Interested in becoming a part of the Toronto Talebaat community? Join <a href="h
 
 ### Activities and Upcoming Events
 
-Stay tuned for upcoming events we are planning for you! :)
+We are planning an exciting event for mid-Summer, details will be displayed soon! Please check here regularly! :)
 
-Click <a href="https://talebaattoronto.github.io/Events">here</a> for more information on Events. 
+Click <a href="https://talebaattoronto.github.io/Events">here</a> for more information on Events and to see photos from previous events! 
 
 * * *
 
