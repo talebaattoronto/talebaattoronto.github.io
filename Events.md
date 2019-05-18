@@ -13,13 +13,14 @@ We are planning an exciting event for mid-Summer, details will be displayed soon
 <center>
 <img src="sihorimay17.jpg" alt="sihoriflyer" style="width:350px;height:390px;border:0;"></center>
 
-
+<br>
 
 *   Monday 6:30-7:30pm, July 23rd: ***SAVE THE DATE*** **EVENT** @ **34 ALEXANDRA WOOD, RICHMOND HILL**. ***Toronto and Mississauga Tauloba*** hosted a fun **interactive night** for **girls ages 15 to 35**. There were *skits and activities* which relayed the importance of our *culture* and *hijri calender*. *Kasreali bhensaabs came to bless the event and gave us all barakat.* See below for pics from the event! 
 
 <center>
 <img src="evite3.jpeg" alt="evite3" style="width:380px;height:380px;border:0;"></center>
 
+<br>
 
 *   Thursday 7pm, July 19th/ 7th Zilqad: Moulatona Fatema-tus-Zahra **MITHI SHITABI** *Ashara Ohbat Majlis* (On behalf of *Burhani Women's Association* (**BWA**)). Registration has ended. Thank you to all those who came out and made the event a success! :)
 
@@ -30,7 +31,10 @@ We are planning an exciting event for mid-Summer, details will be displayed soon
 
 
 ## Pictures From Past Events! 
+*Sihori Meet and Greet* Event - May 17, 2019 
+*   Pictures will be uploaded soon! :) Stay tuned..
 
+<br>
 *Save The Date* Event - July 23, 2018
 
 <img src="jul23-1.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
@@ -46,6 +50,7 @@ We are planning an exciting event for mid-Summer, details will be displayed soon
 <img src="jul23-11.jpeg" alt="evite3" style="width:450px;height:450px;border:0;">
 <img src="jul23-12.jpeg" alt="evite3" style="width:310px;height:450px;border:0;">
 
+<br>
 Sihori gathering during Ramadan :) 
 
 ![sihoriramadan](sihoriparty.png)
