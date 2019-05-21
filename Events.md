@@ -34,13 +34,13 @@ We are planning an exciting event for mid-Summer, details will be displayed soon
 *Sihori Meet and Greet* Event - May 17, 2019 
 *   Pictures will be uploaded soon! :) Stay tuned..
 
-<img src="may17_1.jpg" alt="evite3" style="width:380px;height:380px;border:0;">
+<img src="may17_1.jpg" alt="evite3" style="width:460px;height:380px;border:0;">
 <img src="may17_2.jpg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="may17_3.jpg" alt="evite3" style="width:310px;height:450px;border:0;">
+<img src="may17_3.jpg" alt="evite3" style="width:470px;height:450px;border:0;">
 <img src="may17_4.jpg" alt="evite3" style="width:450px;height:450px;border:0;">
 <img src="may17_5.jpg" alt="evite3" style="width:380px;height:380px;border:0;">
 <img src="may17_6.jpg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="may17_7.jpg" alt="evite3" style="width:380px;height:380px;border:0;">
+<img src="may17_7.jpg" alt="evite3" style="width:380px;height:420px;border:0;">
 
 <br>
 *Save The Date* Event - July 23, 2018
