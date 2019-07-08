@@ -42,21 +42,6 @@ We are planning an exciting event for mid-Summer, details will be displayed soon
 <img src="may17_6.jpg" alt="evite3" style="width:380px;height:380px;border:0;">
 <img src="may17_7.jpg" alt="evite3" style="width:380px;height:420px;border:0;"></center>
 
-<br>
-*Save The Date* Event - July 23, 2018
-
-<img src="jul23-1.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="jul23-2.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="jul23-3.jpeg" alt="evite3" style="width:310px;height:450px;border:0;">
-<img src="jul23-4.jpeg" alt="evite3" style="width:450px;height:450px;border:0;">
-<img src="jul23-5.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="jul23-6.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="jul23-7.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="jul23-8.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="jul23-9.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="jul23-10.jpeg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="jul23-11.jpeg" alt="evite3" style="width:450px;height:450px;border:0;">
-<img src="jul23-12.jpeg" alt="evite3" style="width:310px;height:450px;border:0;">
 
 <br>
 Sihori gathering during Ramadan :) 
