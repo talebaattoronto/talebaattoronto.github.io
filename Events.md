@@ -8,7 +8,7 @@ We are planning an exciting event for mid-Summer, details will be displayed soon
 
 ## Past Events 
 
-*   Friday 11:00pm, May 17: ***Sihori Meet & Greet*** @ the Masjid Basement. With the Raza of Janab Aamil Saheb - Al Talebaat ul Muminaat Toronto organization held a sehori gathering for all Misaqi girls and ladies between ages 14-30. There were games and prizes followed by behori namaz and a scrumptious sehori. Registration <a href="https://forms.gle/LwB8X867m9TNJ1Sa6">Link</a>. Everyone had an amazing time. Look below for pictures from the event! 
+*   Friday 11:00pm, May 17: ***Sihori Meet & Greet*** @ the Masjid Basement. With the Raza of Janab Aamil Saheb - Al Talebaat ul Muminaat Toronto organization held a sehori gathering for all Misaqi girls and ladies between ages 14-30. There were games and prizes followed by behori namaz and a scrumptious sehori. Registration <a href="https://forms.gle/LwB8X867m9TNJ1Sa6">Link</a>. Everyone had an amazing time. Click <a href="https://talebaattoronto.github.io/Sihori Meet and Greet 2019">here</a> to see pics from the event!
 
 <center>
 <img src="sihorimay17.jpg" alt="sihoriflyer" style="width:350px;height:390px;border:0;"></center>
@@ -31,17 +31,6 @@ We are planning an exciting event for mid-Summer, details will be displayed soon
 
 
 ## Pictures From Past Events! 
-*Sihori Meet and Greet* Event - May 17, 2019 
-
-<center>
-<img src="may17_1.jpg" alt="evite3" style="width:550px;height:350px;border:0;">
-<img src="may17_2.jpg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="may17_3.jpg" alt="evite3" style="width:470px;height:380px;border:0;">
-<img src="may17_4.jpg" alt="evite3" style="width:450px;height:450px;border:0;">
-<img src="may17_5.jpg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="may17_6.jpg" alt="evite3" style="width:380px;height:380px;border:0;">
-<img src="may17_7.jpg" alt="evite3" style="width:380px;height:420px;border:0;"></center>
-
 
 <br>
 Sihori gathering during Ramadan :) 
