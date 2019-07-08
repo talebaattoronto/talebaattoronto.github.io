@@ -22,9 +22,9 @@
 
 * * *
 
-<center>
 ## Support or Contact
 
+<center>
 Have Questions or Comments? Email us at: <a href="http://talebaat.toronto@gmail.com">talebaat.toronto@gmail.com</a> 
 
 Have photos or content you would like to see on the website? Or would like to request any changes? Email <a href="http://amatulla.lokhandwala@mail.utoronto.ca">amatulla.lokhandwala@mail.utoronto.ca</a>
