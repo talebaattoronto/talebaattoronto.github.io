@@ -18,6 +18,7 @@
 | <a href="https://www.torontojamat.com">Anjuman-E-Burhani Toronto</a>        |
 | <a href="http://www.mumineen.org">Dawoodi Bohras Worldwide</a>              | 
 | <a href="http://www.talabulilm.com">Talabulilm</a>                          |
+| <a href="https://www.its52.com/">Idaratut Ta'Reef Al Shakhsi (ITS)</a>      |
 
 
 * * *
