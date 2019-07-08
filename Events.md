@@ -15,7 +15,7 @@ We are planning an exciting event for mid-Summer, details will be displayed soon
 
 <br>
 
-*   Monday 6:30-7:30pm, July 23rd: ***SAVE THE DATE*** **EVENT** @ **34 ALEXANDRA WOOD, RICHMOND HILL**. ***Toronto and Mississauga Tauloba*** hosted a fun **interactive night** for **girls ages 15 to 35**. There were *skits and activities* which relayed the importance of our *culture* and *hijri calender*. *Kasreali bhensaabs came to bless the event and gave us all barakat.* See below for pics from the event! 
+*   Monday 6:30-7:30pm, July 23rd: ***SAVE THE DATE*** **EVENT** @ **34 ALEXANDRA WOOD, RICHMOND HILL**. ***Toronto and Mississauga Tauloba*** hosted a fun **interactive night** for **girls ages 15 to 35**. There were *skits and activities* which relayed the importance of our *culture* and *hijri calender*. *Kasreali bhensaabs came to bless the event and gave us all barakat.* Click <a href="https://talebaattoronto.github.io/Save The Date">here</a> to see pics from the event! 
 
 <center>
 <img src="evite3.jpeg" alt="evite3" style="width:380px;height:380px;border:0;"></center>
