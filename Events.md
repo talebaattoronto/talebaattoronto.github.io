@@ -28,15 +28,3 @@ We are planning an exciting event for mid-Summer, details will be displayed soon
 
 
 * * *
-
-
-## Pictures From Past Events! 
-
-<br>
-Sihori gathering during Ramadan :) 
-
-![sihoriramadan](sihoriparty.png)
-
-![sihorione](sihoriparty2.png)
-
-* * *
