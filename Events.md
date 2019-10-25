@@ -1,10 +1,10 @@
 # Events 
 
-*   Friday 6:30pm, October 25: ***Soap Making Workshop*** Come join us at a *fabulously scented soap making workshop* with our very own **Tasneem Khambata**, who will teach us the essentials necessary to make our *customized* lovely smelling soaps. The workshop will be happening in the Khambata family's store in Newmarket (and there will be snacks!).
+*   ATTENTION DATE CHANGE TO Sunday 1:15pm -- 4:30pm, October 27: ***Soap Making Workshop*** Come join us at a *fabulously scented soap making workshop* with our very own **Bhen Tasneem Khambata**, who will teach us the essentials necessary to make our *customized* lovely smelling soaps. The workshop will be happening in the Khambata family's store in Newmarket (and there will be snacks!). ALL BAIRAO ARE INVITED! :) 
 <br>
 Address of Store: 258 Main St. South Unit B Newmarket ON L34 3Z5
 <br>
-There's a limit of 30 spots so <a href="https://forms.gle/w3EL199UUP3tARnr7">sign up</a> now to make your very own soap for a fee of just $20!
+There's a limit of 30 spots so <a href="https://forms.gle/Ud5venzcuiMBT6317">sign up</a> now to make your very own soap for a fee of just $20! Transportation will be provided for those that require it.
 
 <center>
 <img src="smw_flyer.jpg" alt="smwflyer" style="width:350px;height:390px;border:0;"></center>
