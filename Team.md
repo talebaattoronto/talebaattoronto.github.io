@@ -47,7 +47,7 @@
     <p>
     Treasurer<br />
     Fatema Khambhaty<br />
-    Contact: (647) 786-5652<br />
+    Contact: (647) 771-0187<br />
     </p>
     <p>
     Committee Member<br />
