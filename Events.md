@@ -1,23 +1,32 @@
 # Events 
 
-*   ATTENTION DATE CHANGE TO Sunday 1:15pm -- 4:30pm, October 27: ***Soap Making Workshop*** Come join us at a *fabulously scented soap making workshop* with our very own **Bhen Tasneem Khambata**, who will teach us the essentials necessary to make our *customized* lovely smelling soaps. The workshop will be happening in the Khambata family's store in Newmarket (and there will be snacks!). ALL BAIRAO ARE INVITED! :) 
+We are in the middle of planning more events for the rest of this year so check here regularly!
+
+### Mehndi! 
+
+Throughout the year Talebaat hosts several mehndi nights, where anyone can buy mehndi cones and get mehndi done on their hands/feets by volunteers and Talebaat members during special miqaats. If you would like to *buy* a mehndi cone, please <a href="https://talebaattoronto.github.io/Contact Us">contact us</a> and we'll be *happy to help you*. 
+
+<center>
+<img src="mehndi_night.jpg" alt="mehndi stall" style="width:500px;height:310px;border:0;"></center>
+
 <br>
-Address of Store: 258 Main St. South Unit B Newmarket ON L34 3Z5
+
+* * *
+
+
+## Past Events 
+
+*   Sunday 1:15pm -- 4:30pm, October 27: ***Soap Making Workshop*** Youngsters and ladies of our jamat joined us at a *fabulously scented soap making workshop* with our very own **Bhen Tasneem Khambata**, who taught us the essentials necessary to make our *customized* lovely smelling soaps/face masks. The workshop took place in the Khambata family's store (Artisan Baths) in Newmarket. All the participants had a wonderful time and were happy to take home their skincare creations. :) Click <a href="https://talebaattoronto.github.io/Face Masks Workshop">here</a> to see pics from the event!
 <br>
-There's a limit of 30 spots so <a href="https://forms.gle/Ud5venzcuiMBT6317">sign up</a> now to make your very own soap for a fee of just $20! Transportation will be provided for those that require it.
+Address of Store **Artisan Baths**: 258 Main St. South Unit B Newmarket ON L34 3Z5
+<br>
+Registration Link <a href="https://forms.gle/Ud5venzcuiMBT6317">here</a>. (A material fee of just $20!) Transportation arrangements were provided.
 
 <center>
 <img src="smw_flyer.jpg" alt="smwflyer" style="width:350px;height:390px;border:0;"></center>
 
 
 <br>
-
-We are in the middle of planning more events for the rest of this year so check here regularly!
-
-* * *
-
-
-## Past Events 
 
 *   Friday 11:00pm, May 17: ***Sihori Meet & Greet*** @ the Masjid Basement. With the Raza of Janab Aamil Saheb - Al Talebaat ul Muminaat Toronto organization held a sehori gathering for all Misaqi girls and ladies between ages 14-30. There were games and prizes followed by behori namaz and a scrumptious sehori. Registration <a href="https://forms.gle/LwB8X867m9TNJ1Sa6">Link</a>. Everyone had an amazing time. Click <a href="https://talebaattoronto.github.io/Sihori Meet and Greet 2019">here</a> to see pics from the event!
 
