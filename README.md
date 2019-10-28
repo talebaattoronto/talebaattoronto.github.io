@@ -18,9 +18,8 @@ Interested in becoming a part of the Toronto Talebaat community? Join <a href="h
 
 ### Activities and Upcoming Events
 
-Sunday 1:15pm, October 27: ***Soap Making Workshop*** Come join us at a *fabulously scented soap making workshop* with our very own **Tasneem Khambata**, who will teach us the essentials necessary to make our *customized* lovely smelling soaps.
+We are in the middle of planning more exciting events for the rest of this year so check here regularly! Thank you. 
 
-<br>
 <br>
 
 Click <a href="https://talebaattoronto.github.io/Events">here</a> for more information on Events and to see photos from previous events! 
