@@ -41,27 +41,29 @@
     </p>
     <p>
     Joint Secretary<br />
-	Batul Baghdadwala<br />
-	Contact: (647) 633-4458<br />
-	</p>
-
-	<p>
-	Treasurer<br />
-	Rabab Kapasi<br />
-	Contact: (647) 786-5652<br />
-	</p>
-
-	<p>
-	Committee Member<br />
-	Fatema Nalwala<br />
-	Contact: (647) 527-0580<br />
-	</p>
+    Batul Baghdadwala<br />
+    Contact: (647) 633-4458<br />
+    </p>
+    <p>
+    Treasurer<br />
+    Fatema Khambhaty<br />
+    Contact: (647) 786-5652<br />
+    </p>
+    <p>
+    Committee Member<br />
+    Rabab Kapasi<br />
+    Contact: (647) 786-5652<br />
+    </p>
+    <p>
+    Committee Member<br />
+    Fatema Nalwala<br />
+    Contact: (647) 527-0580<br />
+    </p>
 
   </div>
   <div class="column" style="background-color:#E1CAC5;">
     <h2>Subcommittee Members</h2>
     <p>Amatullah Khajanchi</p>
-    <p>Fatema Khambhaty</p>
     <p>Munira Jamali</p>
     <p>Tasneem Saifee</p>
     <p>Alefya Kika</p>
